@@ -52,6 +52,6 @@ def convert_jpg_to_dst(jpg_file, dst_output):
 
 # Ejecuta el programa
 if __name__ == "__main__":
-    jpg_file = 'C:/Users/ant_a/OneDrive/Escritorio/xxx/img/resmon.jpg' # Carga la ubicacion de la imagen jpg
+    jpg_file = 'C:/Users/on.jpg' # Carga la ubicacion de la imagen jpg
     dst_output = 'nuevo.dst' # Da el nombre al archivo nuevo
     convert_jpg_to_dst(jpg_file, dst_output)
